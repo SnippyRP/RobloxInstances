@@ -16599,8 +16599,8 @@
                     "ValueType": {
                         "Category": "Enum",
                         "Name": "MeshType"
-                    }
-		    "ValueType": {
+                    },
+	  "ValueType": {
                         "Category": "DataType",
                         "Name": "MeshId"
                     }
